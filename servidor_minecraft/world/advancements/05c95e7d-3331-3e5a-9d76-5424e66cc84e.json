@@ -11075,9 +11075,51 @@
     },
     "done": true
   },
+  "twigs:recipes/silt/silt_brick": {
+    "criteria": {
+      "has_item": "2025-02-19 22:46:38 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/nether_tile_large": {
+    "criteria": {
+      "has_nether_brick_slab": "2025-02-19 22:43:35 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/bone_blocks/bone_cortical": {
+    "criteria": {
+      "has_item": "2025-02-19 22:49:25 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/silt/silt_from_silt_balls": {
+    "criteria": {
+      "has_item": "2025-02-19 22:46:38 +0000"
+    },
+    "done": true
+  },
   "friendsandfoes:nether/find_citadel": {
     "criteria": {
       "citadel": "2025-02-19 22:39:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-02-19 22:49:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks": {
+    "criteria": {
+      "has_nether_brick_slab": "2025-02-19 22:43:35 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/bone_blocks/wither/wither_bone_block": {
+    "criteria": {
+      "has_item": "2025-02-19 22:49:25 +0000"
     },
     "done": true
   },
@@ -11087,9 +11129,33 @@
     },
     "done": true
   },
+  "adorabuild_structures:fireproof": {
+    "criteria": {
+      "nether_temple_medium_1": "2025-02-19 22:49:15 +0000"
+    },
+    "done": false
+  },
+  "netherexp:recipes/bone_blocks/stacked_bones": {
+    "criteria": {
+      "has_item": "2025-02-19 22:49:25 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/eat_nourishing_food": {
     "criteria": {
       "nourishment": "2025-02-19 22:41:11 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/dragon_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-02-19 22:49:25 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/bn_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-02-19 22:49:25 +0000"
     },
     "done": true
   },
