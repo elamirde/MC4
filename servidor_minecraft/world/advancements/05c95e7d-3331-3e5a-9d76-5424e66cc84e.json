@@ -3478,7 +3478,8 @@
       "bread": "2025-02-05 03:58:12 +0000",
       "golden_apple": "2025-02-05 17:01:42 +0000",
       "rotten_flesh": "2025-02-06 04:40:54 +0000",
-      "cooked_chicken": "2025-02-04 05:08:46 +0000"
+      "cooked_chicken": "2025-02-04 05:08:46 +0000",
+      "carrot": "2025-02-19 17:26:30 +0000"
     },
     "done": false
   },
@@ -8594,7 +8595,8 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
-      "potato": "2025-02-05 05:57:43 +0000"
+      "potato": "2025-02-05 05:57:43 +0000",
+      "carrot": "2025-02-19 17:26:24 +0000"
     },
     "done": false
   },
@@ -10513,6 +10515,12 @@
   "betternether:recipes/decorations/netherrack_stalactite_netherrack": {
     "criteria": {
       "has_netherrack_stalactite": "2025-02-07 04:58:31 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/leather_boots_repairing": {
+    "criteria": {
+      "has_leather_boots": "2025-02-19 17:37:37 +0000"
     },
     "done": true
   },

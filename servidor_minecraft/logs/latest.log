@@ -3889,3 +3889,5 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [19Feb2025 17:24:16.823] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shinkar lost connection: Disconnected
 [19Feb2025 17:24:16.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shinkar left the game
 [19Feb2025 17:24:16.824] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for b1284f62-b0d3-39b6-90b3-a2438888ab09
+[19Feb2025 17:39:37.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[19Feb2025 17:39:37.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: a<--[HERE]
