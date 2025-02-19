@@ -9722,10 +9722,13 @@
   "betternether:all_the_biomes": {
     "criteria": {
       "betternether:bone_reef": "2025-02-07 04:24:19 +0000",
+      "betternether:flooded_deltas": "2025-02-19 22:59:37 +0000",
+      "betternether:gravel_desert": "2025-02-19 23:04:56 +0000",
       "betternether:crimson_pinewood": "2025-02-07 04:18:15 +0000",
       "betternether:nether_swampland": "2025-02-07 04:25:57 +0000",
       "betternether:crimson_glowing_woods": "2025-02-07 03:56:57 +0000",
       "betternether:nether_jungle": "2025-02-19 18:03:36 +0000",
+      "betternether:nether_swampland_terraces": "2025-02-19 22:55:30 +0000",
       "betternether:sulfuric_bone_reef": "2025-02-07 04:27:30 +0000"
     },
     "done": false
@@ -9799,7 +9802,8 @@
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:crimson_forest": "2025-02-07 03:59:45 +0000",
-      "minecraft:soul_sand_valley": "2025-02-19 17:58:24 +0000"
+      "minecraft:soul_sand_valley": "2025-02-19 17:58:24 +0000",
+      "minecraft:basalt_deltas": "2025-02-19 22:58:52 +0000"
     },
     "done": false
   },
@@ -11087,9 +11091,33 @@
     },
     "done": true
   },
+  "blue_skies:recipes/building_blocks/glowing_blinding_stone": {
+    "criteria": {
+      "has_item": "2025-02-19 23:04:57 +0000"
+    },
+    "done": true
+  },
+  "adorabuild_structures:the_lethal_towers": {
+    "criteria": {
+      "nether_fortress_large_1": "2025-02-19 23:09:36 +0000"
+    },
+    "done": true
+  },
   "netherexp:recipes/bone_blocks/bone_cortical": {
     "criteria": {
       "has_item": "2025-02-19 22:49:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-02-19 23:04:57 +0000"
+    },
+    "done": true
+  },
+  "netherexp:nether/non_renewable_yeah_right": {
+    "criteria": {
+      "killed_entity": "2025-02-19 22:53:54 +0000"
     },
     "done": true
   },
@@ -11099,9 +11127,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-02-19 23:04:57 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/glowing_nature_stone": {
+    "criteria": {
+      "has_item": "2025-02-19 23:04:57 +0000"
+    },
+    "done": true
+  },
   "friendsandfoes:nether/find_citadel": {
     "criteria": {
       "citadel": "2025-02-19 22:39:25 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/soul_vulture": {
+    "criteria": {
+      "killed_by": "2025-02-19 22:57:27 +0000"
     },
     "done": true
   },
@@ -11117,9 +11163,27 @@
     },
     "done": true
   },
+  "blue_skies:recipes/building_blocks/glowing_poison_stone": {
+    "criteria": {
+      "has_item": "2025-02-19 23:04:57 +0000"
+    },
+    "done": true
+  },
   "netherexp:recipes/bone_blocks/wither/wither_bone_block": {
     "criteria": {
       "has_item": "2025-02-19 22:49:25 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/blackstone_stalactite_blackstone": {
+    "criteria": {
+      "has_blackstone_stalactite": "2025-02-19 23:02:45 +0000"
+    },
+    "done": true
+  },
+  "netherexp:nether/emf_raider": {
+    "criteria": {
+      "has_item": "2025-02-19 23:09:55 +0000"
     },
     "done": true
   },
@@ -11131,7 +11195,8 @@
   },
   "adorabuild_structures:fireproof": {
     "criteria": {
-      "nether_temple_medium_1": "2025-02-19 22:49:15 +0000"
+      "nether_temple_medium_1": "2025-02-19 22:49:15 +0000",
+      "nether_fortress_large_1": "2025-02-19 23:09:36 +0000"
     },
     "done": false
   },
@@ -11141,9 +11206,27 @@
     },
     "done": true
   },
+  "netherexp:recipes/sanctum/gargoyle_statue": {
+    "criteria": {
+      "has_item": "2025-02-19 22:54:06 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/glowing_nature_stonebrick_from_glowstone": {
+    "criteria": {
+      "has_item": "2025-02-19 23:04:57 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/eat_nourishing_food": {
     "criteria": {
       "nourishment": "2025-02-19 22:41:11 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/misc/ecto_soul_sand": {
+    "criteria": {
+      "has_item": "2025-02-19 22:54:06 +0000"
     },
     "done": true
   },
