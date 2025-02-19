@@ -3481,6 +3481,7 @@
       "rotten_flesh": "2025-02-06 04:40:54 +0000",
       "golden_carrot": "2025-02-19 17:45:08 +0000",
       "cooked_chicken": "2025-02-04 05:08:46 +0000",
+      "enchanted_golden_apple": "2025-02-19 23:30:23 +0000",
       "carrot": "2025-02-19 17:26:30 +0000"
     },
     "done": false
@@ -9725,7 +9726,10 @@
       "betternether:bone_reef": "2025-02-07 04:24:19 +0000",
       "betternether:flooded_deltas": "2025-02-19 22:59:37 +0000",
       "betternether:gravel_desert": "2025-02-19 23:04:56 +0000",
+      "betternether:poor_nether_grasslands": "2025-02-19 23:25:06 +0000",
       "betternether:crimson_pinewood": "2025-02-07 04:18:15 +0000",
+      "betternether:nether_grasslands": "2025-02-19 23:30:17 +0000",
+      "betternether:old_swampland": "2025-02-19 23:25:00 +0000",
       "betternether:nether_swampland": "2025-02-07 04:25:57 +0000",
       "betternether:crimson_glowing_woods": "2025-02-07 03:56:57 +0000",
       "betternether:nether_jungle": "2025-02-19 18:03:36 +0000",
@@ -9804,7 +9808,8 @@
     "criteria": {
       "minecraft:crimson_forest": "2025-02-07 03:59:45 +0000",
       "minecraft:soul_sand_valley": "2025-02-19 17:58:24 +0000",
-      "minecraft:basalt_deltas": "2025-02-19 22:58:52 +0000"
+      "minecraft:basalt_deltas": "2025-02-19 22:58:52 +0000",
+      "minecraft:warped_forest": "2025-02-19 23:23:48 +0000"
     },
     "done": false
   },
@@ -11098,9 +11103,21 @@
     },
     "done": true
   },
+  "supplementaries:recipes/netherite_trapdoor": {
+    "criteria": {
+      "has_netherite_scrap": "2025-02-19 23:31:45 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/blackstone_shingle_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-02-19 23:19:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2025-02-19 23:31:45 +0000"
     },
     "done": true
   },
@@ -11155,6 +11172,12 @@
   "stoneworks:recipes/building_blocks/blackstone_tiles_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-02-19 23:19:14 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/netherite_door": {
+    "criteria": {
+      "has_netherite_scrap": "2025-02-19 23:31:45 +0000"
     },
     "done": true
   },
@@ -11272,6 +11295,12 @@
     },
     "done": true
   },
+  "mynethersdelight:recipes/cooking/strider_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-19 23:25:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone": {
     "criteria": {
       "has_blackstone": "2025-02-19 23:19:14 +0000"
@@ -11377,6 +11406,12 @@
   "blue_skies:recipes/building_blocks/glowing_poison_stone": {
     "criteria": {
       "has_item": "2025-02-19 23:04:57 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/cooking/strider_and_grilled_fungus": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-19 23:25:39 +0000"
     },
     "done": true
   },
@@ -11496,9 +11531,21 @@
     },
     "done": true
   },
+  "netherchested:recipes/decorations/nether_chest": {
+    "criteria": {
+      "has_netherite_scrap": "2025-02-19 23:31:45 +0000"
+    },
+    "done": true
+  },
   "netherexp:recipes/bone_blocks/stacked_bones": {
     "criteria": {
       "has_item": "2025-02-19 22:49:25 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crimson_mosquito": {
+    "criteria": {
+      "killed_by": "2025-02-19 23:25:53 +0000"
     },
     "done": true
   },
