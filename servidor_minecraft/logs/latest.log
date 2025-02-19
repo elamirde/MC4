@@ -3891,3 +3891,6 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [19Feb2025 17:24:16.824] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for b1284f62-b0d3-39b6-90b3-a2438888ab09
 [19Feb2025 17:39:37.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
 [19Feb2025 17:39:37.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: a<--[HERE]
+[19Feb2025 17:48:32.234] [Worker-Main-3/INFO] [dev.corgitaco.featurerecycler.FeatureRecycler/]: Starting feature recycler...
+[19Feb2025 17:48:32.319] [Worker-Main-3/INFO] [dev.corgitaco.featurerecycler.FeatureRecycler/]: Finished recycling features. Took 85ms
+[19Feb2025 17:58:47.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOSHEEEE has made the advancement [Frightening Rush]
