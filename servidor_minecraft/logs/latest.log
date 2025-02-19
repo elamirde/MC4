@@ -4001,3 +4001,4 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [19Feb2025 23:23:51.831] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
 [19Feb2025 23:24:05.582] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
 [19Feb2025 23:25:53.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOSHEEEE has made the advancement [Nightmare Fuel]
+[19Feb2025 23:38:50.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOSHEEEE has completed the challenge [Hot Tourist Destinations]

@@ -2911,6 +2911,7 @@
       "minecraft:skeleton": "2025-02-04 05:11:49 +0000",
       "minecraft:ravager": "2025-02-07 03:10:58 +0000",
       "minecraft:ghast": "2025-02-07 03:59:01 +0000",
+      "minecraft:hoglin": "2025-02-19 23:36:11 +0000",
       "minecraft:vindicator": "2025-02-05 04:30:56 +0000",
       "minecraft:magma_cube": "2025-02-07 04:06:31 +0000",
       "minecraft:spider": "2025-02-04 05:08:32 +0000",
@@ -9724,6 +9725,7 @@
   "betternether:all_the_biomes": {
     "criteria": {
       "betternether:bone_reef": "2025-02-07 04:24:19 +0000",
+      "betternether:wart_forest_edge": "2025-02-19 23:39:31 +0000",
       "betternether:flooded_deltas": "2025-02-19 22:59:37 +0000",
       "betternether:gravel_desert": "2025-02-19 23:04:56 +0000",
       "betternether:poor_nether_grasslands": "2025-02-19 23:25:06 +0000",
@@ -9734,7 +9736,9 @@
       "betternether:crimson_glowing_woods": "2025-02-07 03:56:57 +0000",
       "betternether:nether_jungle": "2025-02-19 18:03:36 +0000",
       "betternether:nether_swampland_terraces": "2025-02-19 22:55:30 +0000",
-      "betternether:sulfuric_bone_reef": "2025-02-07 04:27:30 +0000"
+      "betternether:wart_forest": "2025-02-19 23:39:48 +0000",
+      "betternether:sulfuric_bone_reef": "2025-02-07 04:27:30 +0000",
+      "betternether:soul_plain": "2025-02-19 23:41:15 +0000"
     },
     "done": false
   },
@@ -9808,10 +9812,11 @@
     "criteria": {
       "minecraft:crimson_forest": "2025-02-07 03:59:45 +0000",
       "minecraft:soul_sand_valley": "2025-02-19 17:58:24 +0000",
+      "minecraft:nether_wastes": "2025-02-19 23:38:50 +0000",
       "minecraft:basalt_deltas": "2025-02-19 22:58:52 +0000",
       "minecraft:warped_forest": "2025-02-19 23:23:48 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:nether/get_wither_skull": {
     "criteria": {
