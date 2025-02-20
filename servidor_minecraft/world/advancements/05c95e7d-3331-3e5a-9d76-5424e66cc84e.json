@@ -70,6 +70,7 @@
       "minecraft:taiga": "2025-02-05 04:08:47 +0000",
       "minecraft:deep_ocean": "2025-02-06 23:43:10 +0000",
       "minecraft:frozen_river": "2025-02-05 05:05:50 +0000",
+      "minecraft:bamboo_jungle": "2025-02-20 00:43:22 +0000",
       "minecraft:beach": "2025-02-04 05:52:59 +0000",
       "minecraft:river": "2025-02-04 04:45:39 +0000",
       "minecraft:snowy_plains": "2025-02-05 04:02:42 +0000",
@@ -2724,6 +2725,7 @@
       "erupting_inferno": "2025-02-07 03:58:26 +0000",
       "jacaranda_glade": "2025-02-05 03:55:43 +0000",
       "maple_woods": "2025-02-05 04:09:10 +0000",
+      "visceral_heap": "2025-02-20 00:35:23 +0000",
       "aspen_glade": "2025-02-05 03:55:07 +0000",
       "dune_beach": "2025-02-04 06:13:24 +0000",
       "seasonal_forest": "2025-02-05 06:03:39 +0000",
@@ -10318,7 +10320,8 @@
   },
   "betternether:nether_wood": {
     "criteria": {
-      "got_nether_reed": "2025-02-07 04:25:35 +0000"
+      "got_nether_reed": "2025-02-07 04:25:35 +0000",
+      "got_crimson": "2025-02-20 00:36:22 +0000"
     },
     "done": false
   },
@@ -11096,9 +11099,21 @@
     },
     "done": true
   },
+  "betternether:recipes/transportation/crimson_boat": {
+    "criteria": {
+      "has_crimson_planks": "2025-02-20 00:36:22 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/columns/blackstone_column": {
     "criteria": {
       "has_item": "2025-02-19 23:19:14 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/crimson_side_table": {
+    "criteria": {
+      "has_crimson_side_table": "2025-02-20 00:36:22 +0000"
     },
     "done": true
   },
@@ -11126,6 +11141,18 @@
     },
     "done": true
   },
+  "supplementaries:recipes/decorations/sign_post_crimson": {
+    "criteria": {
+      "has_planks": "2025-02-20 00:36:22 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sign_post_warped": {
+    "criteria": {
+      "has_warped_sign": "2025-02-20 00:36:37 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/blackstone_plate_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-02-19 23:19:14 +0000"
@@ -11135,6 +11162,24 @@
   "minecraft:recipes/building_blocks/blackstone_stairs": {
     "criteria": {
       "has_blackstone": "2025-02-19 23:19:14 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/crimson_corner_trim": {
+    "criteria": {
+      "has_crimson_corner_trim": "2025-02-20 00:36:22 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/crimson_chair": {
+    "criteria": {
+      "has_planks": "2025-02-20 00:36:22 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/crimson_cupboard": {
+    "criteria": {
+      "has_crimson_cupboard": "2025-02-20 00:36:22 +0000"
     },
     "done": true
   },
@@ -11159,6 +11204,18 @@
   "stoneworks:recipes/building_blocks/blackstone_pavers_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-02-19 23:19:14 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/crimson_dining_bench": {
+    "criteria": {
+      "has_crimson_dining_bench": "2025-02-20 00:36:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_slab": {
+    "criteria": {
+      "has_planks": "2025-02-20 00:36:22 +0000"
     },
     "done": true
   },
@@ -11198,9 +11255,27 @@
     },
     "done": true
   },
+  "another_furniture:recipes/crimson_shelf": {
+    "criteria": {
+      "has_planks": "2025-02-20 00:36:22 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/crimson_chest": {
+    "criteria": {
+      "has_crimson_planks": "2025-02-20 00:36:22 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/building_blocks/glowing_blinding_stone": {
     "criteria": {
       "has_item": "2025-02-19 23:04:57 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/crimson_nightstand": {
+    "criteria": {
+      "has_crimson_nightstand": "2025-02-20 00:36:22 +0000"
     },
     "done": true
   },
@@ -11228,6 +11303,18 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/crimson_couch": {
+    "criteria": {
+      "has_crimson_couch": "2025-02-20 00:36:22 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/crimson_pillar_trim": {
+    "criteria": {
+      "has_crimson_pillar_trim": "2025-02-20 00:36:22 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/blackstone_pillar_trim": {
     "criteria": {
       "has_blackstone_pillar_trim": "2025-02-19 23:19:14 +0000"
@@ -11246,9 +11333,39 @@
     },
     "done": true
   },
+  "supplementaries:recipes/sign_post_crimson": {
+    "criteria": {
+      "has_the_recipe": "2025-02-20 00:36:22 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_cobbled_blackstone_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-02-19 23:19:14 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/crimson_fancy_bed": {
+    "criteria": {
+      "has_crimson_fancy_bed": "2025-02-20 00:36:22 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/crimson_counter": {
+    "criteria": {
+      "has_crimson_counter": "2025-02-20 00:36:22 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/crimson_drawer": {
+    "criteria": {
+      "has_crimson_drawer": "2025-02-20 00:36:22 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/netherite_chestplate_repairing": {
+    "criteria": {
+      "has_netherite_chestplate": "2025-02-20 00:28:04 +0000"
     },
     "done": true
   },
@@ -11282,6 +11399,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/crimson_shelf": {
+    "criteria": {
+      "has_crimson_shelf": "2025-02-20 00:36:22 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/decorations/blackstone_bulb": {
     "criteria": {
       "has_blackstone": "2025-02-19 23:19:14 +0000"
@@ -11294,9 +11417,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/crimson_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-02-20 00:36:22 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/tables/crimson_table": {
+    "criteria": {
+      "has_bamboo": "2025-02-20 00:36:22 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/decorations/blackstone_spines": {
     "criteria": {
       "has_blackstone": "2025-02-19 23:19:14 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/crimson_chair": {
+    "criteria": {
+      "has_crimson_chair": "2025-02-20 00:36:22 +0000"
     },
     "done": true
   },
@@ -11342,6 +11483,18 @@
     },
     "done": true
   },
+  "aether:recipes/tools/diamond_shovel_repairing": {
+    "criteria": {
+      "has_diamond_shovel": "2025-02-20 00:36:57 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/building_blocks/crimson_support": {
+    "criteria": {
+      "has_plank": "2025-02-20 00:36:22 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/soul_vulture": {
     "criteria": {
       "killed_by": "2025-02-19 22:57:27 +0000"
@@ -11357,6 +11510,12 @@
   "stoneworks:recipes/building_blocks/cobbled_blackstone_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-02-19 23:19:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-02-20 00:36:22 +0000"
     },
     "done": true
   },
@@ -11444,6 +11603,30 @@
     },
     "done": true
   },
+  "supplementaries:recipes/decorations/sign_post_warped": {
+    "criteria": {
+      "has_the_recipe": "2025-02-20 00:36:37 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/crimson_table": {
+    "criteria": {
+      "has_crimson_table": "2025-02-20 00:36:22 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/crimson_desk": {
+    "criteria": {
+      "has_crimson_desk": "2025-02-20 00:36:22 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/crimson_crafting_table": {
+    "criteria": {
+      "has_crimson_planks": "2025-02-20 00:36:22 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/columns/blackstone_column_stonecutting": {
     "criteria": {
       "has_item": "2025-02-19 23:19:14 +0000"
@@ -11492,9 +11675,21 @@
     },
     "done": true
   },
+  "suppsquared:recipes/decorations/item_shelf_crimson": {
+    "criteria": {
+      "has_planks": "2025-02-20 00:36:22 +0000"
+    },
+    "done": true
+  },
   "friendsandfoes:nether/kill_wildfire": {
     "criteria": {
       "killed_wildfire": "2025-02-19 22:40:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crimson_sign": {
+    "criteria": {
+      "has_planks": "2025-02-20 00:36:22 +0000"
     },
     "done": true
   },
@@ -11516,9 +11711,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/crimson_door": {
+    "criteria": {
+      "has_planks": "2025-02-20 00:36:22 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/blackstone_furnace": {
     "criteria": {
       "has_blackstone": "2025-02-19 23:19:14 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/crimson_barrel": {
+    "criteria": {
+      "has_crimson_planks": "2025-02-20 00:36:22 +0000"
     },
     "done": true
   },
@@ -11526,6 +11733,7 @@
     "criteria": {
       "nether_temple_medium_1": "2025-02-19 22:49:15 +0000",
       "nether_fortress_large_1": "2025-02-19 23:09:36 +0000",
+      "nether_portal_small_1": "2025-02-20 00:43:01 +0000",
       "blackstone_bastion_small_1": "2025-02-19 23:21:22 +0000"
     },
     "done": false
@@ -11533,6 +11741,18 @@
   "minecraft:recipes/building_blocks/blackstone_slab": {
     "criteria": {
       "has_blackstone": "2025-02-19 23:19:14 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/building_blocks/crimson_seat": {
+    "criteria": {
+      "has_plank": "2025-02-20 00:36:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crimson_fence": {
+    "criteria": {
+      "has_planks": "2025-02-20 00:36:22 +0000"
     },
     "done": true
   },
@@ -11554,9 +11774,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/crimson_button": {
+    "criteria": {
+      "has_planks": "2025-02-20 00:36:22 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/crimson_mosquito": {
     "criteria": {
       "killed_by": "2025-02-19 23:25:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_stairs": {
+    "criteria": {
+      "has_planks": "2025-02-20 00:36:22 +0000"
     },
     "done": true
   },
@@ -11620,6 +11852,12 @@
     },
     "done": true
   },
+  "another_furniture:recipes/crimson_table": {
+    "criteria": {
+      "has_planks": "2025-02-20 00:36:22 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/eat_nourishing_food": {
     "criteria": {
       "nourishment": "2025-02-19 22:41:11 +0000"
@@ -11629,6 +11867,18 @@
   "stoneworks:recipes/building_blocks/mossy_blackstone_brick_slab_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-02-19 23:19:14 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/crimson_bench": {
+    "criteria": {
+      "has_crimson_bench": "2025-02-20 00:36:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-02-20 00:36:22 +0000"
     },
     "done": true
   },
