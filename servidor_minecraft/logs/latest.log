@@ -41,3 +41,6 @@
 [20Feb2025 00:59:10.437] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=811, y=58, z=469} BlockPos{x=818, y=57, z=506}
 [20Feb2025 00:59:10.492] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=818, y=56, z=506} BlockPos{x=818, y=57, z=506}
 [20Feb2025 01:10:24.639] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=107, y=61, z=3} BlockPos{x=87, y=59, z=75}
+[20Feb2025 01:20:33.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOSHEEEE has made the advancement [Rattling Remnants]
+[20Feb2025 01:22:42.152] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1250, y=55, z=564} BlockPos{x=1250, y=54, z=565}
+[20Feb2025 01:23:01.300] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1266, y=56, z=536} BlockPos{x=1266, y=55, z=537}

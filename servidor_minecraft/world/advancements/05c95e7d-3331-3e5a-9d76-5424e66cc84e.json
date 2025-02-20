@@ -11920,6 +11920,12 @@
     },
     "done": true
   },
+  "netherexp:nether/rattling_remnants": {
+    "criteria": {
+      "structure": "2025-02-20 01:20:33 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/crimson_table": {
     "criteria": {
       "has_planks": "2025-02-20 00:36:22 +0000"
