@@ -73,3 +73,53 @@
 [20Feb2025 01:45:46.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Shinkar> es easy
 [20Feb2025 01:45:51.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Shinkar> baja
 [20Feb2025 01:50:01.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Shinkar> con esa llama abres cofres
+[20Feb2025 01:50:18.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Shinkar> estas ya lo loetee
+[20Feb2025 01:50:31.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JOSHEEEE> o sea que tendria que buscar otro de estos?
+[20Feb2025 01:50:37.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JOSHEEEE> pero es buen loot?
+[20Feb2025 01:50:40.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Shinkar> parecido a estos
+[20Feb2025 01:50:42.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOSHEEEE has reached the goal [Eldritch Manipulation]
+[20Feb2025 01:50:52.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Shinkar> ese ya estaba loteado
+[20Feb2025 01:51:09.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JOSHEEEE> ahora vengo
+[20Feb2025 01:51:13.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JOSHEEEE> ire a cenar
+[20Feb2025 01:51:18.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Shinkar> yo tamb
+[20Feb2025 01:51:25.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JOSHEEEE> donde es el tp
+[20Feb2025 01:52:10.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Shinkar> asi tienes que buscar
+[20Feb2025 01:52:14.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JOSHEEEE> ahhhh
+[20Feb2025 01:52:18.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Shinkar> detras de estatuas
+[20Feb2025 01:52:21.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JOSHEEEE> abro ese?
+[20Feb2025 01:52:49.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Shinkar> te llevo al tp
+[20Feb2025 01:53:34.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JOSHEEEE> ty
+[20Feb2025 01:53:43.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JOSHEEEE> ya regreso
+[20Feb2025 01:53:49.845] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shinkar lost connection: Disconnected
+[20Feb2025 01:53:49.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shinkar left the game
+[20Feb2025 01:53:49.846] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for b1284f62-b0d3-39b6-90b3-a2438888ab09
+[20Feb2025 01:53:51.579] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JOSHEEEE lost connection: Disconnected
+[20Feb2025 01:53:51.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOSHEEEE left the game
+[20Feb2025 01:53:51.580] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 05c95e7d-3331-3e5a-9d76-5424e66cc84e
+[20Feb2025 01:54:13.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[20Feb2025 01:54:13.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[20Feb2025 01:54:13.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[20Feb2025 01:54:13.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[20Feb2025 01:54:13.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[20Feb2025 01:54:13.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/blue_skies:everdawn
+[20Feb2025 01:54:13.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[20Feb2025 01:54:13.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/blue_skies:everbright
+[20Feb2025 01:54:13.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/aether:the_aether
+[20Feb2025 01:54:13.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[20Feb2025 01:54:13.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[20Feb2025 01:54:13.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
+[20Feb2025 01:54:13.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[20Feb2025 01:54:13.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (everdawn): All chunks are saved
+[20Feb2025 01:54:13.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20Feb2025 01:54:13.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (everbright): All chunks are saved
+[20Feb2025 01:54:13.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_aether): All chunks are saved
+[20Feb2025 01:54:13.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20Feb2025 01:54:13.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[20Feb2025 01:54:13.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[20Feb2025 01:54:13.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[20Feb2025 01:54:13.906] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Stopping IO worker...
+[20Feb2025 01:54:13.907] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Stopped IO worker!
+[20Feb2025 01:54:13.912] [Server thread/INFO] [Framework/]: Unloading server configs...
+[20Feb2025 01:54:13.914] [Server thread/INFO] [Framework/]: Sending config unload event for backpacked.server.toml
+[20Feb2025 01:54:13.915] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[20Feb2025 01:54:13.915] [Server thread/INFO] [Framework/]: Finished unloading server configs

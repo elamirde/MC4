@@ -11439,6 +11439,12 @@
     },
     "done": true
   },
+  "netherexp:recipes/soul_slate_tiles/wall": {
+    "criteria": {
+      "has_planks": "2025-02-20 01:52:43 +0000"
+    },
+    "done": true
+  },
   "netherexp:nether/non_renewable_yeah_right": {
     "criteria": {
       "killed_entity": "2025-02-19 22:53:54 +0000"
@@ -11547,9 +11553,21 @@
     },
     "done": true
   },
+  "netherexp:recipes/soul_slate_tiles/indented": {
+    "criteria": {
+      "has_planks": "2025-02-20 01:52:43 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/soul_vulture": {
     "criteria": {
       "killed_by": "2025-02-19 22:57:27 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/soul_slate_tiles/chiseled": {
+    "criteria": {
+      "has_planks": "2025-02-20 01:52:43 +0000"
     },
     "done": true
   },
@@ -11721,6 +11739,12 @@
     },
     "done": true
   },
+  "netherexp:recipes/soul_slate_tiles/stairs": {
+    "criteria": {
+      "has_planks": "2025-02-20 01:52:43 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/blackstone_plates_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-02-19 23:19:14 +0000"
@@ -11757,6 +11781,12 @@
     },
     "done": true
   },
+  "netherexp:nether/eldritch_manipulation": {
+    "criteria": {
+      "used_item": "2025-02-20 01:50:42 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/blackstone_plate_slab_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-02-19 23:19:14 +0000"
@@ -11766,6 +11796,12 @@
   "suppsquared:recipes/decorations/item_shelf_crimson": {
     "criteria": {
       "has_planks": "2025-02-20 00:36:22 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/soul_slate_tiles/slab": {
+    "criteria": {
+      "has_planks": "2025-02-20 01:52:43 +0000"
     },
     "done": true
   },
