@@ -40,3 +40,4 @@
 [20Feb2025 00:52:15.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOSHEEEE has completed the challenge [Return to Sender]
 [20Feb2025 00:59:10.437] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=811, y=58, z=469} BlockPos{x=818, y=57, z=506}
 [20Feb2025 00:59:10.492] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=818, y=56, z=506} BlockPos{x=818, y=57, z=506}
+[20Feb2025 01:10:24.639] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=107, y=61, z=3} BlockPos{x=87, y=59, z=75}

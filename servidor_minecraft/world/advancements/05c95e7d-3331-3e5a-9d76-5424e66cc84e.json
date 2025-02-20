@@ -11239,6 +11239,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/rib_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-02-20 01:10:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/totem_of_undying": {
     "criteria": {
       "used_totem": "2025-02-19 23:19:15 +0000"
@@ -11587,6 +11593,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/rib_armor_trim_smithing_template": {
+    "criteria": {
+      "has_rib_armor_trim_smithing_template": "2025-02-20 01:10:06 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/cobbled_blackstone_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-02-19 23:19:14 +0000"
@@ -11650,6 +11662,12 @@
   "handcrafted:recipes/misc/crimson_desk": {
     "criteria": {
       "has_crimson_desk": "2025-02-20 00:36:22 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/building_blocks/zoglin_trophy": {
+    "criteria": {
+      "has_hoglin_trophy": "2025-02-20 01:08:49 +0000"
     },
     "done": true
   },
@@ -11953,6 +11971,12 @@
   "betternether:recipes/building_blocks/bn_bone_block": {
     "criteria": {
       "has_bone_block": "2025-02-19 22:49:25 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/building_blocks/waxed_hoglin_trophy": {
+    "criteria": {
+      "has_hoglin_trophy": "2025-02-20 01:08:49 +0000"
     },
     "done": true
   },
