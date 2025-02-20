@@ -16925,6 +16925,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/gray_cushion": {
+    "criteria": {
+      "has_gray_cushion": "2025-02-20 01:31:40 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/sandstone_tiles_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-02-20 01:11:21 +0000"
@@ -16949,6 +16955,12 @@
     },
     "done": true
   },
+  "another_furniture:recipes/light_gray_stool": {
+    "criteria": {
+      "has_wool": "2025-02-20 01:31:45 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/sandstone_brick_stairs_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-02-20 01:11:21 +0000"
@@ -16961,9 +16973,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2025-02-20 01:31:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_carpet": {
+    "criteria": {
+      "has_light_gray_wool": "2025-02-20 01:31:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone_slab": {
     "criteria": {
       "has_sandstone": "2025-02-20 01:11:21 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_light_gray": {
+    "criteria": {
+      "has_light_gray_wool": "2025-02-20 01:31:45 +0000"
     },
     "done": true
   },
@@ -16976,6 +17006,12 @@
   "crabbersdelight:recipes/building_blocks/clam_barrel": {
     "criteria": {
       "has_clam": "2025-02-20 01:08:26 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/light_gray_sofa": {
+    "criteria": {
+      "has_wool": "2025-02-20 01:31:45 +0000"
     },
     "done": true
   },
@@ -17003,9 +17039,21 @@
     },
     "done": true
   },
+  "another_furniture:recipes/gray_tall_stool": {
+    "criteria": {
+      "has_wool": "2025-02-20 01:31:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_white_carpet": {
     "criteria": {
       "has_needed_dye": "2025-02-20 00:27:05 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/gray_lamp": {
+    "criteria": {
+      "has_wool": "2025-02-20 01:31:40 +0000"
     },
     "done": true
   },
@@ -17054,6 +17102,12 @@
   "stoneworks:recipes/building_blocks/sandstone_bricks_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-02-20 01:11:21 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/gray_curtain": {
+    "criteria": {
+      "has_wool": "2025-02-20 01:31:40 +0000"
     },
     "done": true
   },
@@ -17111,6 +17165,12 @@
     },
     "done": true
   },
+  "comforts:hammock_gray": {
+    "criteria": {
+      "has_gray_wool": "2025-02-20 01:31:40 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_sandstone_brick_wall_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-02-20 01:11:21 +0000"
@@ -17153,6 +17213,12 @@
     },
     "done": true
   },
+  "another_furniture:recipes/gray_sofa": {
+    "criteria": {
+      "has_wool": "2025-02-20 01:31:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_white_wool": {
     "criteria": {
       "has_needed_dye": "2025-02-20 00:27:05 +0000"
@@ -17177,9 +17243,21 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/light_gray_cushion": {
+    "criteria": {
+      "has_light_gray_cushion": "2025-02-20 01:31:45 +0000"
+    },
+    "done": true
+  },
   "crabbersdelight:recipes/building_blocks/shrimp_barrel": {
     "criteria": {
       "has_shrimp": "2025-02-20 01:08:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2025-02-20 01:31:40 +0000"
     },
     "done": true
   },
@@ -17198,6 +17276,12 @@
   "stoneworks:recipes/building_blocks/cracked_sandstone_bricks_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-02-20 01:11:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2025-02-20 01:31:45 +0000"
     },
     "done": true
   },
@@ -17249,15 +17333,45 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/light_gray_sheet": {
+    "criteria": {
+      "has_light_gray_sheet": "2025-02-20 01:31:45 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/light_gray_tall_stool": {
+    "criteria": {
+      "has_wool": "2025-02-20 01:31:45 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_gray": {
+    "criteria": {
+      "has_gray_wool": "2025-02-20 01:31:40 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/cobbled_sandstone_wall_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-02-20 01:11:21 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_banner": {
+    "criteria": {
+      "has_light_gray_wool": "2025-02-20 01:31:45 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/cooked_shrimp": {
     "criteria": {
       "has_any_ingredient": "2025-02-20 01:08:26 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/light_gray_curtain": {
+    "criteria": {
+      "has_wool": "2025-02-20 01:31:45 +0000"
     },
     "done": true
   },
@@ -17270,6 +17384,12 @@
   "stoneworks:recipes/building_blocks/sandstone_pillar_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-02-20 01:11:21 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/gray_stool": {
+    "criteria": {
+      "has_wool": "2025-02-20 01:31:40 +0000"
     },
     "done": true
   },
@@ -17327,6 +17447,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2025-02-20 01:31:40 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/cobbled_sandstone_stairs_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-02-20 01:11:21 +0000"
@@ -17351,6 +17477,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/gray_sheet": {
+    "criteria": {
+      "has_gray_sheet": "2025-02-20 01:31:40 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/sandstone_pavers_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-02-20 01:11:21 +0000"
@@ -17360,6 +17492,18 @@
   "betterend:recipes/misc/iron_bulb_lantern_white": {
     "criteria": {
       "has_white_dye": "2025-02-20 00:27:05 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_light_gray": {
+    "criteria": {
+      "has_light_gray_wool": "2025-02-20 01:31:45 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/light_gray_lamp": {
+    "criteria": {
+      "has_wool": "2025-02-20 01:31:45 +0000"
     },
     "done": true
   },

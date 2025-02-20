@@ -9741,6 +9741,7 @@
       "betternether:nether_jungle": "2025-02-19 18:03:36 +0000",
       "betternether:nether_swampland_terraces": "2025-02-19 22:55:30 +0000",
       "betternether:wart_forest": "2025-02-19 23:39:48 +0000",
+      "betternether:old_warped_woods": "2025-02-20 01:32:28 +0000",
       "betternether:sulfuric_bone_reef": "2025-02-07 04:27:30 +0000",
       "betternether:soul_plain": "2025-02-19 23:41:15 +0000"
     },
@@ -10473,6 +10474,7 @@
   },
   "repurposed_structures:mineshafts": {
     "criteria": {
+      "in_mineshaft_warped": "2025-02-20 01:35:14 +0000",
       "in_mineshaft_nether": "2025-02-07 04:37:02 +0000"
     },
     "done": false
@@ -11605,6 +11607,12 @@
     },
     "done": true
   },
+  "netherexp:nether/occult_manor": {
+    "criteria": {
+      "structure": "2025-02-20 01:33:33 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/blackstone_tile_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-02-19 23:19:14 +0000"
@@ -11839,6 +11847,12 @@
   "netherexp:recipes/bone_blocks/stacked_bones": {
     "criteria": {
       "has_item": "2025-02-19 22:49:25 +0000"
+    },
+    "done": true
+  },
+  "netherexp:nether/enter_soul_glass": {
+    "criteria": {
+      "condition": "2025-02-20 01:34:31 +0000"
     },
     "done": true
   },
