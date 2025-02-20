@@ -2923,6 +2923,7 @@
       "quark:forgotten": "2025-02-05 05:23:44 +0000",
       "minecraft:witch": "2025-02-07 03:10:52 +0000",
       "minecraft:wither_skeleton": "2025-02-07 04:30:18 +0000",
+      "quark:wraith": "2025-02-20 01:01:02 +0000",
       "minecraft:piglin": "2025-02-07 03:58:28 +0000",
       "minecraft:enderman": "2025-02-04 05:37:47 +0000",
       "minecraft:stray": "2025-02-07 01:35:21 +0000",
@@ -11160,6 +11161,12 @@
     },
     "done": true
   },
+  "twigs:recipes/lamps/warped_shroomlamp": {
+    "criteria": {
+      "has_item": "2025-02-20 01:05:39 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/blackstone_plate_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-02-19 23:19:14 +0000"
@@ -11205,6 +11212,12 @@
   "twigs:recipes/silt/silt_brick": {
     "criteria": {
       "has_item": "2025-02-19 22:46:38 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/lamps/crimson_shroomlamp": {
+    "criteria": {
+      "has_item": "2025-02-20 01:05:39 +0000"
     },
     "done": true
   },
@@ -11319,6 +11332,12 @@
   "handcrafted:recipes/misc/crimson_pillar_trim": {
     "criteria": {
       "has_crimson_pillar_trim": "2025-02-20 00:36:22 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/end_stone_lamp": {
+    "criteria": {
+      "has_shroomlight": "2025-02-20 01:05:39 +0000"
     },
     "done": true
   },

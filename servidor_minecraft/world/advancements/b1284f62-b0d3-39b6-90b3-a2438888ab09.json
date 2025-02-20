@@ -16919,6 +16919,12 @@
     },
     "done": true
   },
+  "crabbersdelight:recipes/building_blocks/clam_barrel": {
+    "criteria": {
+      "has_clam": "2025-02-20 01:08:26 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/quartz_glass_white": {
     "criteria": {
       "has_white_dye": "2025-02-20 00:27:05 +0000"
@@ -16979,9 +16985,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/shrimp_fried_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-20 01:08:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_white_wool": {
     "criteria": {
       "has_needed_dye": "2025-02-20 00:27:05 +0000"
+    },
+    "done": true
+  },
+  "crabbersdelight:recipes/building_blocks/shrimp_barrel": {
+    "criteria": {
+      "has_shrimp": "2025-02-20 01:08:26 +0000"
     },
     "done": true
   },
@@ -17000,6 +17018,12 @@
   "betternether:recipes/decorations/quartz_glass_framed_pane_white": {
     "criteria": {
       "has_white_dye": "2025-02-20 00:27:05 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/cooked_shrimp": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-20 01:08:26 +0000"
     },
     "done": true
   },
