@@ -9736,6 +9736,7 @@
       "betternether:old_swampland": "2025-02-19 23:25:00 +0000",
       "betternether:nether_swampland": "2025-02-07 04:25:57 +0000",
       "betternether:crimson_glowing_woods": "2025-02-07 03:56:57 +0000",
+      "betternether:magma_land": "2025-02-20 00:54:19 +0000",
       "betternether:nether_jungle": "2025-02-19 18:03:36 +0000",
       "betternether:nether_swampland_terraces": "2025-02-19 22:55:30 +0000",
       "betternether:wart_forest": "2025-02-19 23:39:48 +0000",
@@ -11135,6 +11136,12 @@
     },
     "done": true
   },
+  "betternether:recipes/misc/cincinnasite_ingot_from_shard_blasting": {
+    "criteria": {
+      "has_item.betternether.cincinnasite": "2025-02-20 00:45:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/netherite_ingot": {
     "criteria": {
       "has_netherite_scrap": "2025-02-19 23:31:45 +0000"
@@ -11372,6 +11379,12 @@
   "stoneworks:recipes/building_blocks/mossy_blackstone_brick_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-02-19 23:19:14 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/cincinnasite_block": {
+    "criteria": {
+      "has_cincinnasite": "2025-02-20 00:45:41 +0000"
     },
     "done": true
   },
@@ -11627,9 +11640,21 @@
     },
     "done": true
   },
+  "twilightdelight:recipes/frozen/obsidian": {
+    "criteria": {
+      "has_magma_block": "2025-02-20 00:49:30 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/columns/blackstone_column_stonecutting": {
     "criteria": {
       "has_item": "2025-02-19 23:19:14 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/misc/cincinnasite_ingot_from_shard_smelting": {
+    "criteria": {
+      "has_item.betternether.cincinnasite": "2025-02-20 00:45:41 +0000"
     },
     "done": true
   },
@@ -11648,6 +11673,12 @@
   "stoneworks:recipes/building_blocks/mossy_blackstone_bricks_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-02-19 23:19:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/return_to_sender": {
+    "criteria": {
+      "killed_ghast": "2025-02-20 00:52:15 +0000"
     },
     "done": true
   },
